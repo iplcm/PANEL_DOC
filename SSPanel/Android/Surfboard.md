@@ -1,6 +1,6 @@
 ## 应用概述
 
-Surfboard 是在 Android 平台上的客户端软件，支持 Shadowsocks 协议。
+Surfboard 是在 Android 平台上的客户端软件，支持 Shadowsocks / Vmess 协议。
 
 目前此应用程序仍然处于测试版，因此界面和功能在未来都可能发生改动。同时，其 [开发商已经宣布](https://twitter.com/getsurfboard/status/1023485591839621120)  Surfboard 未来将是一个「付费应用」，但具体授权方式的价格层暂未公布。
 
@@ -8,10 +8,10 @@ Surfboard 是在 Android 平台上的客户端软件，支持 Shadowsocks 协议
 
 以下是各平台该应用的下载地址。
 
-- Android：[HockeyAPP](https://rink.hockeyapp.net/recruit/2113783c503645abb0a5ec6317e1a169)
+- Android：[Google Play](https://play.google.com/store/apps/details?id=com.getsurfboard)
 - ...
 
-此处您需要自行操作，参与测试并下载安装应用，完成后打开该应用，登录 HockeyAPP 的账户。
+此处您需要自行操作，参与测试并下载安装应用，完成后打开该应用
 
 ## 获取订阅
 
